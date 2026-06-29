@@ -6,3 +6,5 @@ emoji
 joblib
 scikit-learn
 gunicorn
+torch
+transformers
